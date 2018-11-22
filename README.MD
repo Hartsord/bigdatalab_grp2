@@ -2,9 +2,9 @@ This is the GitHub repository for Group 2 of the Cloudera Big Data Workshop held
 
 Our members are:
 - Clifford Kintanar
--
--
--
+- Dinna Santos
+- Cedric Razon
+- Joey Bryan
 -
 
 Our methodology is in two versions, one using HDFS, and the other using Kudu. Table specification and analysis will be done in Impala
