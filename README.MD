@@ -6,3 +6,13 @@ Our members are:
 -
 -
 -
+
+Our methodology is in two versions, one using HDFS, and the other using Kudu. Table specification and analysis will be done in Impala
+
+General flow is as follows:
+1) Download Data into storage
+2) Define external table in Impala
+3) Perform Data Discovery exercise
+4) Develop problem statement
+5) Deep Dive into Data
+6) Summarize conclusions
