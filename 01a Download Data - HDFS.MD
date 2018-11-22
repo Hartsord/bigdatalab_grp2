@@ -8,6 +8,5 @@ Raw data should be available at this link: https://www.transtats.bts.gov/OT_Dela
 ## Commands to download data into HDFS:
 ```
 hadoop fs -mkdir /user/cloudera/airline_delays
-hadoop fs -cd /user/cloudera/airline_delays
-hadoop fs -wget https://www.transtats.bts.gov/OT_Delay/ot_delaycause1.asp?display=download&pn=0&month=&year=
+hadoop fs -wget https://www.transtats.bts.gov/OT_Delay/ot_delaycause1.asp?display=download&pn=0&month=&year= /user/cloudera/airline_delays/
 ```
