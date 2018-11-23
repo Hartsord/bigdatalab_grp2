@@ -5,7 +5,7 @@ Our members are:
 - Dinna Santos
 - Cedric Razon
 - Joey Bryan
--
+- Kimberly Mitra
 
 Our methodology is in two versions, one using HDFS, and the other using Kudu. Table specification and analysis will be done in Impala
 
