@@ -18,4 +18,5 @@ Name of zip is "805001964_92018_4132_airline_delay_causes.zip", while original C
 ## Load file into HDFS
 ```
 hadoop fs -mkdir /user/cloudera/airline_delays
+hadoop fs -chmod 777 /user/cloudera/airline_delays
 hadoop fs -put ~/Downloads/airline_delays/airline_delay_causes.csv /user/cloudera/airline_delays
